@@ -2,10 +2,6 @@
 
 🌱 I’m currently learning Computer Science at MSA University (Level 3). My Current GPA: 3.84
 
-📫 How to reach me: roqaiaemad21@gmail.com | 01090691246 | Jiza, Egypt
-
-😄 Pronouns: She/Her
-
 ⚡ Fun fact: I love solving complex problems and building innovative solutions.
 
 ---
