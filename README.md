@@ -76,7 +76,7 @@ Worked on the basic design and implementation of a computer system.
 
 Here are some of my projects on GitHub:
 
-- [Charity Management System](https://github.com/RokaiaEmad/Algorithm-Project)
+- [Closed Hashing](https://github.com/RokaiaEmad/Algorithm-Project)
 
-
+- [Main-Memory-Implementat](https://github.com/RokaiaEmad/Main-Memory-Implementation)
 
