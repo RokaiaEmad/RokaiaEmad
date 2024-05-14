@@ -82,5 +82,5 @@ Here are some of my projects on GitHub:
 
 - [Maze_Using_AI](https://github.com/RokaiaEmad/Maze)
   
-- [Maze_Using_AI](https://github.com/RokaiaEmad/Study-Planner)
+- [Study Planner](https://github.com/RokaiaEmad/Study-Planner)
 
