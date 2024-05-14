@@ -81,4 +81,6 @@ Here are some of my projects on GitHub:
 - [Main-Memory-Implementat](https://github.com/RokaiaEmad/Main-Memory-Implementation)
 
 - [Maze_Using_AI](https://github.com/RokaiaEmad/Maze)
+  
+- [Maze_Using_AI](https://github.com/RokaiaEmad/Study-Planner)
 
