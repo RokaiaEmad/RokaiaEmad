@@ -49,6 +49,13 @@ Developed a backend system to manage charity operations efficiently.
 **Employee Vacation Database Management System**  
 Created a database system for managing employee vacations.
 
+**Food Delivery App**  
+using Flutter
+
+**Study Planner App**  
+using Flutter
+
+
 **Main Memory Implementation**  
 Implemented a main memory module for educational purposes.
 
@@ -73,3 +80,22 @@ Worked on the basic design and implementation of a computer system.
 - **Location:** Jiza, Egypt
 
 
+### Repositories
+
+Here are some of my projects on GitHub:
+
+- [Game using c#](https://github.com/RokaiaEmad/game)
+
+- [Food Delivery App](https://github.com/RokaiaEmad/Food_Delivery_App)
+
+- [Closed Hashing](https://github.com/RokaiaEmad/Algorithm-Project)
+
+- [Poor Punny](https://github.com/RokaiaEmad/poor-punny-game)
+
+- [Study Planner](https://github.com/RokaiaEmad/Study-Planner)
+
+- [Medical Website](https://github.com/RokaiaEmad/Medical-Website)
+  
+- [Maze](https://github.com/RokaiaEmad/Maze)
+
+- [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
