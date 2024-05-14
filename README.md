@@ -72,3 +72,11 @@ Worked on the basic design and implementation of a computer system.
 - **Phone:** 01090691246
 - **Location:** Jiza, Egypt
 
+### Repositories
+
+Here are some of my projects on GitHub:
+
+- [Charity Management System](https://github.com/RokaiaEmad/Algorithm-Project)
+
+
+
