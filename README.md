@@ -14,7 +14,6 @@ I am a dedicated computer science student with hands-on experience in Python, ea
 ### Education
 **Computer Science Student**  
 MSA University | 2022 - 2025  
-GPA: 3.84
 
 ---
 
