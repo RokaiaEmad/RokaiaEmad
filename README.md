@@ -1,6 +1,6 @@
 # Hi, I’m Rokaia Emad
 
-🌱 I’m currently learning Computer Science at MSA University (Level 3). My Current GPA: 3.84
+🌱 I’m currently learning Computer Science at MSA University (Level 3).
 
 ⚡ Fun fact: I love solving complex problems and building innovative solutions.
 
