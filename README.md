@@ -96,5 +96,7 @@ Here are some of my projects on GitHub:
 - [Medical Website](https://github.com/RokaiaEmad/Medical-Website)
   
 - [Maze](https://github.com/RokaiaEmad/Maze)
-
+  
+- [Weather](https://github.com/RokaiaEmad/Weather_app)
+  
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
