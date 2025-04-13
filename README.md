@@ -1,6 +1,6 @@
 # Hi, I’m Rokaia Emad
 
-🌱 I’m currently learning Computer Science at MSA University (Level 3).
+🌱 I’m currently learning Computer Science at MSA University (Level 4).
 
 ⚡ Fun fact: I love solving complex problems and building innovative solutions.
 
