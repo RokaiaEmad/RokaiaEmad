@@ -101,4 +101,7 @@ Here are some of my projects on GitHub:
   
 - [Music](https://github.com/RokaiaEmad/Music_app.git)
 
+- [News](https://github.com/RokaiaEmad/News_app.git)
+
+
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
