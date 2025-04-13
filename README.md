@@ -99,4 +99,6 @@ Here are some of my projects on GitHub:
   
 - [Weather](https://github.com/RokaiaEmad/Weather_app)
   
+- [Music](https://github.com/RokaiaEmad/Music_app.git)
+
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
