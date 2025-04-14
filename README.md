@@ -104,6 +104,8 @@ Here are some of my projects on GitHub:
 - [News](https://github.com/RokaiaEmad/News_app)
 
 - [Brain Tumor Segmentation](https://github.com/RokaiaEmad/Brain_Tumor_-Segmentation)
+  
+- [A Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction]((https://github.com/RokaiaEmad/A-Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction)
 
 
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
