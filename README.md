@@ -99,9 +99,11 @@ Here are some of my projects on GitHub:
   
 - [Weather](https://github.com/RokaiaEmad/Weather_app)
   
-- [Music](https://github.com/RokaiaEmad/Music_app.git)
+- [Music](https://github.com/RokaiaEmad/Music_app)
 
-- [News](https://github.com/RokaiaEmad/News_app.git)
+- [News](https://github.com/RokaiaEmad/News_app)
+
+- [Brain Tumor Segmentation](https://github.com/RokaiaEmad/Brain_Tumor_-Segmentation)
 
 
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
