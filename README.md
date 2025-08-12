@@ -1,25 +1,26 @@
 # Hi, I’m Rokaia Emad
 
-🌱 I’m currently learning Computer Science at MSA University (Level 4).
+🎓 Recent Computer Science graduate from MSA University (Class of 2025).  
 
-⚡ Fun fact: I love solving complex problems and building innovative solutions.
+💡 Passionate about building innovative, efficient, and user-focused applications across mobile, AI/ML, and backend domains.  
 
 ---
 
 ### Objective
-I am a dedicated computer science student with hands-on experience in Python, eager to contribute to impactful projects and further develop my expertise through a backend internship.
+A motivated Computer Science graduate with hands-on experience in Android development (Kotlin), machine learning, and software engineering. Skilled in applying modern development practices, eager to contribute to impactful projects, and seeking opportunities to enhance my expertise in software development and AI.
 
 ---
 
 ### Education
-**Computer Science Student**  
-MSA University | 2022 - 2025  
+**Bachelor of Science in Computer Science**  
+MSA University | 2022 – 2025  
 
 ---
 
 ### Skills
 
 **Programming Languages:**
+- Kotlin
 - Python
 - C#
 - Java
@@ -31,86 +32,76 @@ MSA University | 2022 - 2025
 - PHP
 
 **Frameworks and Libraries:**
+- Android (MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding, ViewBinding)
 - Flutter
-- MYSQL
+- MySQL
 
 **Other Skills:**
+- API Integration
 - Database Design
-- Complex Problem Solving
+- Problem Solving
+- Clean Architecture
 
 ---
 
-### Experience (Projects)
+### Experience (Selected Projects)
 
-**Charity Management System**  
-Developed a backend system to manage charity operations efficiently.
+**Paymob App (Android – Kotlin)**  
+Contributed to the development and maintenance of Paymob’s fintech mobile application, focusing on registration flow, feature integration, UI/UX enhancements, and API-based service interactions.  
+**Technologies:** Kotlin, MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding  
+[Google Play Link](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)  
 
-**Employee Vacation Database Management System**  
-Created a database system for managing employee vacations.
+**Weather App (Android – Kotlin)**  
+Developed a native Android application to display real-time weather data using the OpenWeather API. Implemented asynchronous API calls using Coroutines and Retrofit. Designed a responsive UI with RecyclerView to display hourly and daily forecasts.  
+**Technologies:** Kotlin, Retrofit, Coroutines, MVVM, RecyclerView, ViewBinding  
 
-**Food Delivery App**  
-using Flutter
+**Meal App (Android – Kotlin)**  
+Built a native Android application to browse and search meals using TheMealDB API. Implemented API calls with Retrofit and Coroutines for smooth, asynchronous data loading. Displayed meal categories and details using RecyclerView with custom adapters.  
+**Technologies:** Kotlin, Retrofit, Coroutines, MVVM, RecyclerView, DataBinding  
 
-**Study Planner App**  
-using Flutter
+**Food Delivery App (Flutter)**  
+Cross-platform application for browsing menus, placing orders, and tracking deliveries.  
+[Repository](https://github.com/RokaiaEmad/Food_Delivery_App)  
 
-
-**Main Memory Implementation**  
-Implemented a main memory module for educational purposes.
-
-**Hungarian Method Calculator**  
-Developed a calculator using the Hungarian method for optimization problems.
-
-**Mini and Large Game using C#**  
-Designed and developed various games using C#.
-
-**Backtrack Algorithm using C++ (Sudoku, N-Queens, 3-Thieves)**  
-Implemented backtracking algorithms for solving complex problems.
-
-**Basic Computer Design**  
-Worked on the basic design and implementation of a computer system.
+**Study Planner App (Flutter)**  
+Planner app with task scheduling, theme customization, and local storage.  
+[Repository](https://github.com/RokaiaEmad/Study-Planner)  
 
 ---
 
 ### Contact
 
-- **Email:** roqaiaemad21@gmail.com
-- **Phone:** 01090691246
-- **Location:** Jiza, Egypt
+- **Email:** roqaiaemad21@gmail.com  
+- **Phone:** +20 1090691246  
+- **Location:** Giza, Egypt  
 
+---
 
 ### Repositories
 
-Here are some of my projects on GitHub:
+**Android (Kotlin)**  
+- [Paymob App (Registration Flow Contribution)](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)  
 
-- [Game using c#](https://github.com/RokaiaEmad/game)
+**Mobile Applications (Flutter)**  
+- [Food Delivery App](https://github.com/RokaiaEmad/Food_Delivery_App)  
+- [Study Planner App](https://github.com/RokaiaEmad/Study-Planner)  
+- [Music App](https://github.com/RokaiaEmad/Music_app)  
+- [News App](https://github.com/RokaiaEmad/News_app)  
 
-- [Food Delivery App](https://github.com/RokaiaEmad/Food_Delivery_App)
+**Machine Learning & AI**  
+- [Brain Tumor Segmentation](https://github.com/RokaiaEmad/Brain_Tumor_-Segmentation)  
+- [A Multi-Layered Large Language Model Framework for Disease Prediction](https://github.com/RokaiaEmad/A-Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction)  
+- [An Ensemble Classification Approach in a Multi-Layered Large Language Model Framework for Disease Prediction](https://github.com/RokaiaEmad/An-Ensemble-Classification-Approach-in-A-Multi-Layered-Large-Language-Model-Framework-for-Disease)  
+- [Ensemble Transformers for Arabic Medical Text Classification](https://github.com/RokaiaEmad/Ensemble-Transformers-for-Arabic-Medical-Text-Classification)  
 
-- [Closed Hashing](https://github.com/RokaiaEmad/Algorithm-Project)
+**Algorithms & Systems**  
+- [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)  
+- [Closed Hashing](https://github.com/RokaiaEmad/Algorithm-Project)  
+- [Backtracking Algorithms](https://github.com/RokaiaEmad/Maze)  
 
-- [Poor Punny](https://github.com/RokaiaEmad/poor-punny-game)
+**Web Development**  
+- [Medical Website](https://github.com/RokaiaEmad/Medical-Website)  
 
-- [Study Planner](https://github.com/RokaiaEmad/Study-Planner)
-
-- [Medical Website](https://github.com/RokaiaEmad/Medical-Website)
-  
-- [Maze](https://github.com/RokaiaEmad/Maze)
-  
-- [Weather](https://github.com/RokaiaEmad/Weather_app)
-  
-- [Music](https://github.com/RokaiaEmad/Music_app)
-
-- [News](https://github.com/RokaiaEmad/News_app)
-
-- [Brain Tumor Segmentation](https://github.com/RokaiaEmad/Brain_Tumor_-Segmentation)
-  
-- [A Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction]((https://github.com/RokaiaEmad/A-Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction)
-
-- [An Ensemble Classification Approach in A
-Multi-Layered Large Language Model Framework
-for Disease Prediction]((https://github.com/RokaiaEmad/An-Ensemble-Classification-Approach-in-A-Multi-Layered-Large-Language-Model-Framework-for-Disease)
-  
-- [Ensemble Transformers for Arabic Medical TextClassification]((https://github.com/RokaiaEmad/Ensemble-Transformers-for-Arabic-Medical-Text-Classification)
-
-- [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
+**Games**  
+- [Poor Punny Game](https://github.com/RokaiaEmad/poor-punny-game)  
+- [Game using C#](https://github.com/RokaiaEmad/game)  
