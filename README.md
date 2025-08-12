@@ -104,4 +104,18 @@ Planner app with task scheduling, theme customization, and local storage.
 
 **Games**  
 - [Poor Punny Game](https://github.com/RokaiaEmad/poor-punny-game)  
-- [Game using C#](https://github.com/RokaiaEmad/game)  
+- [Game using C#](https://github.com/RokaiaEmad/game)
+
+  ### Publications
+
+- **Ensemble Transformers for Arabic Medical Text Classification**  
+  Proposed an ensemble of transformer models to improve classification accuracy of Arabic medical datasets. Selected for publication at the *3rd International IEEE Conference on Intelligent Methods, Systems, and Applications (IMSA 2025)*.  
+  [GitHub Repository](https://github.com/RokaiaEmad/Ensemble-Transformers-for-Arabic-Medical-Text-Classification)
+
+- **An Ensemble Classification Approach in a Multi-Layered Large Language Model Framework for Disease Prediction**  
+  Designed an ensemble classification method within a multi-layered LLM framework for enhanced disease prediction. Selected for publication at the *ACS/IEEE 22nd International Conference on Computer Systems and Applications (AICCSA 2025)*.  
+  [GitHub Repository](https://github.com/RokaiaEmad/An-Ensemble-Classification-Approach-in-A-Multi-Layered-Large-Language-Model-Framework-for-Disease)
+
+- **A Multi-Layered Large Language Model Framework for Disease Prediction**  
+  Developed an intelligent system leveraging LLMs to process Arabic medical questions, classify disease categories, and assess severity levels. Selected for publication by Springer at the *ICICT 2025 Conference*.  
+  [arXiv Link](https://arxiv.org/abs/2502.00063) | [GitHub Repository](https://github.com/RokaiaEmad/A-Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction)
