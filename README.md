@@ -107,5 +107,6 @@ Here are some of my projects on GitHub:
   
 - [A Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction]((https://github.com/RokaiaEmad/A-Multi-Layered-Large-Language-Model-Framework-for-Disease-Prediction)
 
+- [Ensemble Transformers for Arabic Medical TextClassification]((https://github.com/RokaiaEmad/Ensemble-Transformers-for-Arabic-Medical-Text-Classification)
 
 - [Main Memory Implementation](https://github.com/RokaiaEmad/Main-Memory-Implementation)
