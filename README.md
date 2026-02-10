@@ -82,6 +82,7 @@ Planner app with task scheduling, theme customization, and local storage.
 **Android (Kotlin)**  
 - [Paymob App (Registration Flow Contribution)](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)
 - [Meditation UI](https://github.com/RokaiaEmad/MeditationUI)
+- [Meals App](https://github.com/RokaiaEmad/meals-app)
 
 
 **Mobile Applications (Flutter)**  
