@@ -32,7 +32,7 @@ MSA University | 2022 – 2025
 - PHP
 
 **Frameworks and Libraries:**
-- Android (MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding, ViewBinding)
+- Android (MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding, ViewBinding , Jetpack Compose)
 - Flutter
 - MySQL
 
@@ -58,14 +58,6 @@ Developed a native Android application to display real-time weather data using t
 **Meal App (Android – Kotlin)**  
 Built a native Android application to browse and search meals using TheMealDB API. Implemented API calls with Retrofit and Coroutines for smooth, asynchronous data loading. Displayed meal categories and details using RecyclerView with custom adapters.  
 **Technologies:** Kotlin, Retrofit, Coroutines, MVVM, RecyclerView, DataBinding  
-
-**Food Delivery App (Flutter)**  
-Cross-platform application for browsing menus, placing orders, and tracking deliveries.  
-[Repository](https://github.com/RokaiaEmad/Food_Delivery_App)  
-
-**Study Planner App (Flutter)**  
-Planner app with task scheduling, theme customization, and local storage.  
-[Repository](https://github.com/RokaiaEmad/Study-Planner)  
 
 ---
 
