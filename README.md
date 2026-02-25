@@ -75,6 +75,7 @@ Built a native Android application to browse and search meals using TheMealDB AP
 - [Paymob App (Registration Flow Contribution)](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)
 - [Meditation UI](https://github.com/RokaiaEmad/MeditationUI)
 - [Meals App](https://github.com/RokaiaEmad/meals-app)
+- [Instagram Profile UI](https://github.com/RokaiaEmad/instagram-profile-ui)
 
 
 **Mobile Applications (Flutter)**  
