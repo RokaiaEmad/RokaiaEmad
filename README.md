@@ -6,42 +6,9 @@
 
 ---
 
-### Objective
-A motivated Computer Science graduate with hands-on experience in Android development (Kotlin), machine learning, and software engineering. Skilled in applying modern development practices, eager to contribute to impactful projects, and seeking opportunities to enhance my expertise in software development and AI.
-
----
-
 ### Education
 **Bachelor of Science in Computer Science**  
 MSA University | 2022 – 2025  
-
----
-
-### Skills
-
-**Programming Languages:**
-- Kotlin
-- Python
-- C#
-- Java
-- Dart
-- C++
-- JavaScript
-- HTML
-- CSS
-- PHP
-
-**Frameworks and Libraries:**
-- Android (MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding, ViewBinding , Jetpack Compose)
-- Flutter
-- MySQL
-
-**Other Skills:**
-- API Integration
-- Database Design
-- Problem Solving
-- Clean Architecture
-
 ---
 
 ### Experience (Selected Projects)
@@ -50,14 +17,6 @@ MSA University | 2022 – 2025
 Contributed to the development and maintenance of Paymob’s fintech mobile application, focusing on registration flow, feature integration, UI/UX enhancements, and API-based service interactions.  
 **Technologies:** Kotlin, MVVM, Hilt, Retrofit, Coroutines, Flow, Navigation Graph, DataBinding  
 [Google Play Link](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)  
-
-**Weather App (Android – Kotlin)**  
-Developed a native Android application to display real-time weather data using the OpenWeather API. Implemented asynchronous API calls using Coroutines and Retrofit. Designed a responsive UI with RecyclerView to display hourly and daily forecasts.  
-**Technologies:** Kotlin, Retrofit, Coroutines, MVVM, RecyclerView, ViewBinding  
-
-**Meal App (Android – Kotlin)**  
-Built a native Android application to browse and search meals using TheMealDB API. Implemented API calls with Retrofit and Coroutines for smooth, asynchronous data loading. Displayed meal categories and details using RecyclerView with custom adapters.  
-**Technologies:** Kotlin, Retrofit, Coroutines, MVVM, RecyclerView, DataBinding  
 
 ---
 
