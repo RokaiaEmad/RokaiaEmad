@@ -33,6 +33,7 @@ Contributed to the development and maintenance of Paymob’s fintech mobile appl
 **Android (Kotlin)**  
 - [Paymob App (Registration Flow Contribution)](https://play.google.com/store/apps/details?id=com.paymob.paymob_app)
 - [Video Games Browser](https://github.com/RokaiaEmad/video-games-browser)
+-  [Notes App](https://github.com/RokaiaEmad/notes-app)
 - [Meditation UI](https://github.com/RokaiaEmad/MeditationUI)
 - [Meals App](https://github.com/RokaiaEmad/meals-app)
 - [Instagram Profile UI](https://github.com/RokaiaEmad/instagram-profile-ui)
